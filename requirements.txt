@@ -10,4 +10,3 @@ seaborn
 statsmodels
 sklearn
 cufflinks
-pyramid-arima
