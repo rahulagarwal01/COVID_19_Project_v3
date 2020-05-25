@@ -1,5 +1,0 @@
-voila
-voila-material
-bqplot
-plotly==4.7.1
-
