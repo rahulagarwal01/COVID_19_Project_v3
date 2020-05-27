@@ -6,7 +6,6 @@ plotly==4.7.1
 folium
 ipywidgets
 iplot
-seaborn
 statsmodels
 sklearn
 cufflinks
